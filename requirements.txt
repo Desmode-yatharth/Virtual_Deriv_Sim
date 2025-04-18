@@ -1,0 +1,8 @@
+streamlit 
+numpy 
+pandas
+scipy.stats 
+heapq
+collections 
+random
+time
