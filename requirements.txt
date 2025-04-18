@@ -1,7 +1,7 @@
 streamlit 
 numpy 
 pandas
-scipy.stats 
+scipy
 heapq
 collections 
 random
