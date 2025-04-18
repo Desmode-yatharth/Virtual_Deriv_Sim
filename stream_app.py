@@ -1,5 +1,4 @@
-pip install scipy
-pip install streamlit
+
 
 import streamlit as st
 import numpy as np
