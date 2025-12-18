@@ -118,3 +118,5 @@ The project highlighted the importance of robust error handling in financial mod
 
 Future Improvements
 Potential extensions include stochastic underlying price simulation, volatility surface modeling, more advanced market maker strategies, latency modeling, and risk metrics such as Greeks and PnL tracking.
+
+Note: The Streamlit app may take 30–60 seconds to wake up on first load due to free hosting cold-start
