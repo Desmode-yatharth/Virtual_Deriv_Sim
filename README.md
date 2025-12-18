@@ -1,5 +1,8 @@
 Overview:  
 
+Note: The Streamlit app may take 30–60 seconds to wake up on first load due to free hosting cold-start. 
+Short demo showing live order matching, market maker behavior, and state updates in the simulator.
+
 This project implements a virtual derivatives market simulator designed to model option pricing, market making behavior, order matching, and trader interaction in a controlled synthetic environment. The simulator focuses on European call and put options priced using the Black–Scholes framework and evolves toward a multi-agent system with virtual traders, market makers, an order book, and execution logic.
 The objective of the project is not predictive accuracy, but to understand and simulate the mechanics of derivatives markets, including pricing, liquidity provision, order flow, and system-level constraints.
 
@@ -119,4 +122,3 @@ The project highlighted the importance of robust error handling in financial mod
 Future Improvements
 Potential extensions include stochastic underlying price simulation, volatility surface modeling, more advanced market maker strategies, latency modeling, and risk metrics such as Greeks and PnL tracking.
 
-Note: The Streamlit app may take 30–60 seconds to wake up on first load due to free hosting cold-start
